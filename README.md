@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I'm Samir Prajapat 👋
-### Java Full Stack Developer | React + Java | Building things that matter
+### Java Full Stack Developer | Spring Boot | REST APIs | React | Open to Internship Opportunities
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Java+Full+Stack+Developer;React+%7C+Java+%7C+SQL;Always+learning%2C+always+building" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 public class Samir {
     String role     = "Java Full Stack Developer";
     String location = "India 🇮🇳";
-    String building = "Projects that solve real problems";
+    String building = "Scalable Full Stack and Backend Projects";
     String openTo   = "Internships & Opportunities";
     String funFact  = "Built a typing speed app — try beating my WPM! ⌨️";
 }
@@ -37,14 +37,16 @@ public class Samir {
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Database**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ---
 
 ## 🌟 Featured Project
@@ -57,6 +59,15 @@ public class Samir {
 > Test your WPM, track your accuracy, and improve every day.
 
 **[→ Try it live: samtype-app.vercel.app](https://samtype-app.vercel.app)**
+
+<a href="https://user-management-api-nmya.onrender.com/swagger-ui/index.html" target="_blank">
+  <img src="https://img.shields.io/badge/🔴_LIVE-User_Management_REST_API-00D9FF?style=for-the-badge" />
+</a>
+
+> Secure Spring Boot REST API with JWT Authentication, Swagger Documentation, Pagination, Sorting, Railway MySQL, and Render Deployment.
+
+**[→ Live Swagger API](https://user-management-api-nmya.onrender.com/swagger-ui/index.html)**  
+**[→ GitHub Repository](https://github.com/samir416/user-management-api)**
 
 ---
 
@@ -93,7 +104,7 @@ public class Samir {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-prajapat-65016531b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samtype-app.vercel.app)
+[![Live API](https://img.shields.io/badge/Live_API-000000?style=for-the-badge&logo=render&logoColor=white)](https://user-management-api-nmya.onrender.com/swagger-ui/index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samir416)
 
 </div>
