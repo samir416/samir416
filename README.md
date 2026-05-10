@@ -14,10 +14,12 @@
 ```java
 public class Samir {
     String role     = "Java Full Stack Developer";
+    String specialization = "Backend Development with Spring Boot";
     String location = "India 🇮🇳";
     String building = "Scalable Full Stack and Backend Projects";
-    String openTo   = "Internships & Opportunities";
-    String funFact  = "Built a typing speed app — try beating my WPM! ⌨️";
+    String openTo   = "Internships & Software Development Opportunities";
+    String currentFocus = "Spring Boot, REST APIs, Security, Deployment";
+    String funFact = "Built and deployed live production-ready projects 🚀";
 }
 ```
 
@@ -51,24 +53,27 @@ public class Samir {
 
 ## 🌟 Featured Project
 
-<a href="https://samtype-app.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🔴_LIVE-SamType_—_Typing_Speed_App-00D9FF?style=for-the-badge" />
-</a>
+🚀 User Management REST API
 
-> A clean, fast, and responsive **typing speed practice app** — built with React.  
-> Test your WPM, track your accuracy, and improve every day.
+Production-ready Spring Boot REST API with JWT Authentication, Spring Security, Swagger Documentation, Pagination, Sorting, Railway Cloud MySQL Database, and Render Deployment.
 
-**[→ Try it live: samtype-app.vercel.app](https://samtype-app.vercel.app)**
+✅ Live Backend Deployed on Render
+✅ Cloud MySQL Connected with Railway
+✅ Secure Authentication & API Documentation
 
-<a href="https://user-management-api-nmya.onrender.com/swagger-ui/index.html" target="_blank">
-  <img src="https://img.shields.io/badge/🔴_LIVE-User_Management_REST_API-00D9FF?style=for-the-badge" />
-</a>
+🔗 Links
+🌐 Live Swagger API:
+https://user-management-api-nmya.onrender.com/swagger-ui/index.html
+💻 GitHub Repository:
+https://github.com/samir416/user-management-api
+⌨️ SamType — Typing Speed App
 
-> Secure Spring Boot REST API with JWT Authentication, Swagger Documentation, Pagination, Sorting, Railway MySQL, and Render Deployment.
+A clean, fast, and responsive typing speed practice application built with React.
+Test your WPM, improve accuracy, and track typing performance in real time.
 
-**[→ Live Swagger API](https://user-management-api-nmya.onrender.com/swagger-ui/index.html)**  
-**[→ GitHub Repository](https://github.com/samir416/user-management-api)**
-
+🔗 Links
+🌐 Live Website:
+https://samtype-app.vercel.app
 ---
 
 ## 📜 Certifications
