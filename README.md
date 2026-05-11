@@ -92,8 +92,7 @@ Users can improve typing speed, track WPM, monitor accuracy, and practice in a d
 https://samtype-app.vercel.app
 
 💻 GitHub Repository  
-https://github.com/samir416/samtype---
-
+https://github.com/samir416/samtype
 ## 📜 Certifications
 
 | Certificate | Platform | Verify |
