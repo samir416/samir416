@@ -67,7 +67,7 @@ Production-ready Spring Boot REST API with JWT Authentication, Spring Security, 
 
 #### 🔗 Links
 🌐 Live Swagger API  
-https://user-management-api-nmya.onrender.com/swagger-ui/
+https://user-management-api-nmya.onrender.com/swagger-ui/index.html
 
 💻 GitHub Repository  
 https://github.com/samir416/user-management-api
@@ -90,7 +90,9 @@ Users can improve typing speed, track WPM, monitor accuracy, and practice in a d
 #### 🔗 Links
 🌐 Live Website  
 https://samtype-app.vercel.app
----
+
+💻 GitHub Repository  
+https://github.com/samir416/samtype---
 
 ## 📜 Certifications
 
