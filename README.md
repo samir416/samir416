@@ -67,8 +67,7 @@ Production-ready Spring Boot REST API with JWT Authentication, Spring Security, 
 
 #### 🔗 Links
 🌐 Live Swagger API  
-https://user-management-api-nmya.onrender.com/swagger-ui/index.html
-
+https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/
 💻 GitHub Repository  
 https://github.com/samir416/user-management-api
 
