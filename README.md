@@ -51,28 +51,44 @@ public class Samir {
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
-🚀 User Management REST API
+### 🚀 User Management REST API
 
 Production-ready Spring Boot REST API with JWT Authentication, Spring Security, Swagger Documentation, Pagination, Sorting, Railway Cloud MySQL Database, and Render Deployment.
 
-✅ Live Backend Deployed on Render
-✅ Cloud MySQL Connected with Railway
-✅ Secure Authentication & API Documentation
+#### 🔥 Features
+- Secure JWT Authentication
+- CRUD Operations
+- Pagination & Sorting
+- Swagger API Documentation
+- Railway Cloud MySQL Integration
+- Render Deployment
 
-🔗 Links
-🌐 Live Swagger API:
-https://user-management-api-nmya.onrender.com/swagger-ui/index.html
-💻 GitHub Repository:
+#### 🔗 Links
+🌐 Live Swagger API  
+https://user-management-api-nmya.onrender.com/swagger-ui/
+
+💻 GitHub Repository  
 https://github.com/samir416/user-management-api
-⌨️ SamType — Typing Speed App
 
-A clean, fast, and responsive typing speed practice application built with React.
-Test your WPM, improve accuracy, and track typing performance in real time.
+---
 
-🔗 Links
-🌐 Live Website:
+### ⌨️ SamType — Typing Speed Practice App
+
+A clean, fast, and responsive typing speed practice application built with React.js.
+
+Users can improve typing speed, track WPM, monitor accuracy, and practice in a distraction-free environment.
+
+#### 🔥 Features
+- Real-time WPM Tracking
+- Accuracy Monitoring
+- Responsive UI
+- Fast & Smooth Experience
+- Dark/Light Mode Support
+
+#### 🔗 Links
+🌐 Live Website  
 https://samtype-app.vercel.app
 ---
 
