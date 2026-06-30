@@ -16,72 +16,45 @@
 
 ```java
 public class Samir {
-
     String role = "Java Full Stack Developer";
-
     String education = "Bachelor of Computer Applications (BCA)";
-
     String college = "JG University";
-
     String location = "Ahmedabad, Gujarat, India 🇮🇳";
-
-    String specialization = "Backend Development using Spring Boot";
-
+    String specialization = "Backend Development with Spring Boot";
     String currentLearning = "React Native";
-
-    String building = "Production-Ready Full Stack Applications";
-
-    String openTo = "Java Full Stack, React Native & Software Development Internships";
-
+    String building = "Scalable & Production-Ready Applications";
+    String openTo = "Java Full Stack | React Native | Software Development Internships";
 }
 ```
+
+## 💡 Highlights
+
+- 💻 Java Full Stack Developer
+- 🚀 Spring Boot Backend Developer
+- ⚛️ React.js Frontend Developer
+- 🔐 JWT Authentication & REST APIs
+- ☁️ Deployment using Render, Railway & Vercel
+- 📱 Currently learning React Native
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
-
+## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-## ⚙️ Frameworks & Libraries
-
+## Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
----
-
-## 🔐 Backend & APIs
-
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## ☁️ Deployment & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+## Tools
+Git • GitHub • Maven • Postman • IntelliJ IDEA • VS Code • MySQL • Render • Railway • Vercel
 
 ---
 
@@ -89,67 +62,53 @@ public class Samir {
 
 ## 🚀 User Management REST API
 
-Production-ready Spring Boot REST API built using Spring Security, JWT Authentication, Role-Based Access Control (RBAC), Swagger/OpenAPI, MySQL, Pagination & Sorting.
+Production-ready Spring Boot REST API.
 
 ### Features
-
-- 🔐 JWT Authentication
-- 👤 Role Based Access Control (RBAC)
-- 📝 CRUD Operations
-- ✅ Input Validation
-- ⚠️ Global Exception Handling
-- 📑 Pagination & Sorting
-- 📚 Swagger Documentation
-- ☁️ Railway Cloud MySQL
-- 🚀 Render Deployment
-
-### Live Demo
+- JWT Authentication
+- Spring Security
+- Role Based Access Control
+- CRUD Operations
+- Pagination & Sorting
+- Swagger Documentation
+- Railway MySQL
+- Render Deployment
 
 🌐 https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/
-
-### Repository
 
 💻 https://github.com/samir416/user-management-api
 
 ---
 
-## ⌨️ SamType – Typing Speed Practice App
+## ⌨️ SamType
 
-A modern typing speed practice application built using React.js that helps users improve typing speed through real-time WPM calculation, accuracy tracking, countdown timer and dark/light mode.
+Typing Speed Practice App built with React.js.
 
-### Features
-
-- ⌨️ Real-time WPM Tracking
-- 🎯 Accuracy Tracking
-- ⏱ Countdown Timer
-- 📄 Dynamic Paragraph Generation
-- 🌙 Dark / Light Mode
-- 📱 Responsive Design
-- ⚡ Fast Performance
-
-### Live Demo
+- Real-time WPM
+- Accuracy Tracking
+- Countdown Timer
+- Responsive UI
+- Dark / Light Mode
 
 🌐 https://samtype-app.vercel.app
-
-### Repository
 
 💻 https://github.com/samir416/samtype
 
 ---
 
-## 🤖 AI Educator (In Progress)
+## 🚀 Upcoming Project — Samprepix
 
-AI-powered education platform built using React.js and Spring Boot.
+AI-powered Interview & Placement Preparation Platform.
 
-### Planned Features
-
-- AI Chat
-- Authentication
+### Planned Modules
+- Resume Analyzer
+- AI Interview
+- Coding Arena
 - Dashboard
-- Student Progress
-- Course Management
+- Performance Analytics
+- Authentication
 
-🚧 Status : Under Development
+Status: 🚧 Under Development
 
 ---
 
@@ -157,75 +116,58 @@ AI-powered education platform built using React.js and Spring Boot.
 
 - React Native
 - Spring Security
-- JWT Authentication
-- REST API Best Practices
+- Advanced REST APIs
 - Mobile App Development
 
 ---
 
 # 📜 Certifications
 
-| Certificate | Platform |
-|-------------|----------|
-| Programming using Java | Infosys Springboard |
-| Java Intermediate | SoloLearn |
-| Introduction to Java | SoloLearn |
-| API Beginner Learning Path | Postman Academy |
-| Database Management System (DBMS) | NPTEL |
-| Internship Participation Certificate | Skillfied Mentor |
+| Certificate | Platform | Verify |
+|-------------|----------|--------|
+| Programming using Java | Infosys Springboard | [View ↗](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing) |
+| Java Intermediate | SoloLearn | [View ↗](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing) |
+| Introduction to Java | SoloLearn | [View ↗](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing) |
+| API Beginner Learning Path | Postman Academy | [View ↗](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing) |
+| Database Management System (DBMS) | NPTEL | [View ↗](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing) |
+| Internship Participation Certificate | Skillfied Mentor | [View ↗](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing) |
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samir416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samir416&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir416&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=samir416&theme=tokyonight&hide_border=true"/>
+</p>
 
----
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=samir416&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samir-prajapat-65016531b/)
+<a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">LinkedIn</a> •
+<a href="mailto:samirprajapat5@gmail.com">Email</a> •
+<a href="https://github.com/samir416">GitHub</a> •
+<a href="https://user-management-api-nmya.onrender.com/swagger-ui/index.html">Live API</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samirprajapat5@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samir416)
-
-[![Live API](https://img.shields.io/badge/Live_API-000000?style=for-the-badge&logo=render&logoColor=white)](https://user-management-api-nmya.onrender.com/swagger-ui/index.html)
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Quote
+## ⭐ "Code. Build. Learn. Repeat."
 
-### *"Building scalable backend systems with Spring Boot and modern web applications using React."*
-
-**Always Learning • Always Building • Always Improving 🚀**
+### Always Learning • Always Building • Always Improving 🚀
 
 </div>
