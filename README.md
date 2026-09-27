@@ -1,376 +1,514 @@
-# 👋 Hi, I'm Samir Prajapat
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Spring+Security+%7C+React.js;REST+APIs+%7C+JWT+%7C+MySQL;Building+Scalable+%26+Production-Ready+Applications" alt="Typing SVG" />
+# <strong>👋 Hi, I'm Samir Prajapat</strong>
+
+<h3>☕ Java Full Stack Developer</h3>
+
+<p>
+  <strong>Spring Boot</strong> •
+  <strong>Spring Security</strong> •
+  <strong>React.js</strong> •
+  <strong>REST APIs</strong> •
+  <strong>JWT</strong> •
+  <strong>MySQL</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/samir416">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:samirprajapat5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p>
+  <em>Building secure, scalable and production-ready applications.</em>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samir416&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
-</p>
+<br>
+
+<a href="https://github.com/samir416">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:samirprajapat5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=samir416&label=PROFILE+VIEWS&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;React.js+Frontend+Developer;REST+API+%7C+JWT+%7C+MySQL;Always+Learning+%7C+Always+Building" alt="Typing Animation"/>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+
+## 🚀 About Me
+
+</div>
+
+<table align="center">
+<tr>
+<td width="55%">
+
+### 👨‍💻 Who I Am
 
 I'm a **Java Full Stack Developer** focused on building secure, scalable and maintainable web applications.
 
-My primary development stack is **Java + Spring Boot + Spring Security + MySQL + React.js**, with a strong interest in backend architecture, REST API design and authentication systems.
+My primary stack combines **Java, Spring Boot, Spring Security, REST APIs, MySQL and React.js**.
 
-```text
-Java Full Stack Developer
-        │
-        ├── Backend
-        │   ├── Java
-        │   ├── Spring Boot
-        │   ├── Spring Security
-        │   ├── Spring Data JPA
-        │   ├── Hibernate
-        │   └── REST APIs
-        │
-        ├── Security
-        │   ├── JWT Authentication
-        │   ├── BCrypt
-        │   └── Role-Based Authorization
-        │
-        ├── Frontend
-        │   ├── React.js
-        │   ├── JavaScript
-        │   ├── TypeScript
-        │   └── Bootstrap
-        │
-        └── Database
-            ├── MySQL
-            ├── SQL
-            └── PL/SQL
+I enjoy transforming ideas into real-world software by working across the complete development lifecycle — from **database design and backend architecture to API development, authentication and responsive frontend interfaces**.
+
+### 🎯 Currently Focused On
+
+- ☕ Advanced Java & Spring Boot
+- 🔐 Spring Security & JWT Authentication
+- ⚛️ React.js & TypeScript
+- 🗄️ MySQL & Database Design
+- 📡 REST API Architecture
+- 📱 React Native
+- 🧠 Data Structures & Algorithms
+
+</td>
+
+<td width="45%">
+
+```java
+public class Samir {
+
+    String role = "Java Full Stack Developer";
+
+    String education =
+        "BCA @ JG University";
+
+    String location =
+        "Ahmedabad, Gujarat, India";
+
+    String backend =
+        "Java + Spring Boot";
+
+    String frontend =
+        "React.js";
+
+    String database =
+        "MySQL";
+
+    String mindset =
+        "Learn • Build • Improve";
+}
 ```
 
-📍 Ahmedabad, Gujarat, India  
-🎓 Bachelor of Computer Applications — JG University  
-💡 Interested in Java Full Stack, Backend Engineering and Software Development
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚡ What I Build
+<div align="center">
 
-I enjoy turning ideas into complete applications — from database design and backend APIs to responsive frontend interfaces.
+## 🧩 My Development Stack
 
-### 🔐 Secure Backend Systems
-Authentication, authorization, JWT, password encryption and role-based access control.
+</div>
 
-### 🚀 RESTful APIs
-Clean API architecture with validation, exception handling, pagination, sorting and API documentation.
+### ☕ Backend Engineering
 
-### 🎨 Modern Frontends
-Responsive React.js interfaces connected with real backend services.
+<div align="center">
 
-### 🗄️ Database-Driven Applications
-Relational database design, CRUD operations, relationships, joins and optimized data access.
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+</div>
+
+### ⚛️ Frontend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,js,ts,html,css,bootstrap" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive%20UI-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+</div>
+
+### 🗄️ Database & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,idea,vscode,postman" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=111111"/>
+<img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white"/>
+
+</div>
 
 ### ☁️ Deployment
-Deploying applications and APIs using modern cloud platforms such as Render, Railway and Vercel.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111111"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🛠️ Technology Stack
+<div align="center">
 
-### Languages
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css" />
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🔐 User Management REST API</h3>
+
+<p align="center">
+<strong>Secure Spring Boot Backend</strong>
 </p>
 
-`Java` `JavaScript` `TypeScript` `SQL` `HTML5` `CSS3` `PL/SQL`
-
-### Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven" />
+A production-style REST API demonstrating authentication, authorization, database integration and structured backend development.
 </p>
 
-`Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `REST APIs` `JWT` `BCrypt`
+### ✨ Highlights
 
-### Frontend
+- 🔐 JWT Authentication
+- 🛡️ Spring Security
+- 👥 Role-Based Authorization
+- 🔒 BCrypt Password Encryption
+- 🗄️ MySQL Integration
+- 📄 CRUD Operations
+- 📊 Pagination & Sorting
+- ✅ Request Validation
+- ⚠️ Global Exception Handling
+- 📚 Swagger / OpenAPI
+- ☁️ Cloud Deployment
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap" />
+<p align="center">
+<a href="https://github.com/samir416/user-management-api">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/">
+<img src="https://img.shields.io/badge/LIVE%20API-36BCF7?style=for-the-badge&logo=swagger&logoColor=white"/>
+</a>
 </p>
 
-`React.js` `React Router` `Axios` `Bootstrap` `Vite` `Responsive UI`
-
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<p align="center">
+<code>Java</code>
+<code>Spring Boot</code>
+<code>Spring Security</code>
+<code>JPA</code>
+<code>JWT</code>
+<code>MySQL</code>
 </p>
 
-`MySQL` `SQL` `PL/SQL` `DBMS` `Database Design`
+</td>
 
-### Tools
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" />
+<h3 align="center">⌨️ SamType</h3>
+
+<p align="center">
+<strong>Real-Time Typing Practice Application</strong>
 </p>
 
-`Git` `GitHub` `IntelliJ IDEA` `VS Code` `Postman` `Swagger` `OpenAPI`
+<p>
+A responsive typing application designed to improve typing speed and accuracy through real-time performance tracking.
+</p>
 
-### Deployment
+### ✨ Highlights
 
-`Render` `Railway` `Vercel`
+- ⚡ Real-Time WPM
+- 🎯 Accuracy Tracking
+- ⏱️ Countdown Timer
+- 📝 Dynamic Paragraphs
+- 🌙 Dark / Light Mode
+- 📱 Responsive Interface
+- 🧩 Component-Based Architecture
+- 🚀 Fast & Lightweight UI
+
+<p align="center">
+<a href="https://github.com/samir416/samtype">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://samtype-app.vercel.app">
+<img src="https://img.shields.io/badge/LIVE%20DEMO-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<code>React.js</code>
+<code>JavaScript</code>
+<code>Bootstrap</code>
+<code>Vercel</code>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🤖 Samprepix
+
+<h3>AI Interview & Placement Preparation Platform</h3>
+
+<p>
+A full-stack platform focused on interview preparation, coding practice and placement readiness.
+</p>
+
+<img src="https://img.shields.io/badge/STATUS-UNDER%20DEVELOPMENT-orange?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20Mock%20Interview-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Resume%20Analyzer-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Coding%20Arena-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Performance%20Analytics-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT%20Authentication-111827?style=flat-square"/>
+
+</div>
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
 
-## 🔐 User Management REST API
+## 🏗️ How I Approach Full Stack Development
 
-### Secure REST API built with Spring Boot
-
-A backend-focused application demonstrating authentication, authorization, database integration and production-style API development.
-
-### Key Features
-
-- JWT-based authentication
-- Spring Security
-- Role-based authorization
-- Secure password encryption with BCrypt
-- User registration and login
-- Complete CRUD operations
-- Pagination and sorting
-- Request validation
-- Global exception handling
-- Swagger / OpenAPI documentation
-- MySQL integration
-- Cloud deployment
-
-### Architecture
+</div>
 
 ```text
-Client
-  │
-  ▼
-REST Controller
-  │
-  ▼
-Service Layer
-  │
-  ▼
-Repository Layer
-  │
-  ▼
-MySQL Database
-```
-
-### Stack
-
-`Java` `Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `JWT` `BCrypt` `MySQL` `Swagger` `Maven`
-
-<p>
-  <a href="https://github.com/samir416/user-management-api">
-    <img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/">
-    <img src="https://img.shields.io/badge/LIVE%20API-36BCF7?style=for-the-badge&logo=swagger&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⌨️ SamType
-
-### Real-Time Typing Practice Application
-
-A responsive typing application focused on real-time performance tracking and an interactive user experience.
-
-### Features
-
-- Real-time WPM calculation
-- Accuracy tracking
-- Countdown timer
-- Dynamic typing paragraphs
-- Dark / Light mode
-- Responsive interface
-- Component-based architecture
-- Fast and lightweight UI
-
-### Stack
-
-`React.js` `JavaScript` `HTML5` `CSS3` `Bootstrap` `Vercel`
-
-<p>
-  <a href="https://github.com/samir416/samtype">
-    <img src="https://img.shields.io/badge/SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://samtype-app.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🤖 Samprepix
-
-### AI Interview & Placement Preparation Platform
-
-A full-stack platform designed around technical interview preparation, coding practice and placement readiness.
-
-**Status:** 🚧 Under Development
-
-### Planned Modules
-
-```text
-Samprepix
-│
-├── 📊 Dashboard
-├── 📄 Resume Analyzer
-├── 🎤 AI Mock Interview
-├── 💻 Coding Arena
-├── 📈 Performance Analytics
-├── 🔐 Authentication
-└── 👤 User Profile
-```
-
-### Planned Stack
-
-`React.js` `Spring Boot` `Spring Security` `JWT` `MySQL` `OpenAI API` `Render`
-
----
-
-# 🧠 Core Engineering Skills
-
-| Area | Skills |
-|---|---|
-| Programming | Java, OOP, Data Structures |
-| Backend | Spring Boot, Spring Security, JPA, Hibernate |
-| APIs | REST API, JWT, Swagger, OpenAPI |
-| Security | Authentication, Authorization, BCrypt |
-| Database | MySQL, SQL, PL/SQL, DBMS |
-| Frontend | React.js, JavaScript, TypeScript |
-| Architecture | MVC, Layered Architecture, Clean Code |
-| Development | CRUD, Validation, Exception Handling |
-| API Testing | Postman |
-| Version Control | Git, GitHub |
-| Deployment | Render, Railway, Vercel |
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir416&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=samir416&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/samir416/samir416/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-Spring Boot
-    ↓
-Advanced Spring Security
-    ↓
-JWT & OAuth Authentication
-    ↓
-Advanced React.js
-    ↓
-React Native
-    ↓
-Data Structures & Algorithms
-    ↓
-System Design
+                         ┌───────────────────────────┐
+                         │        React.js UI        │
+                         │  Components • Routing     │
+                         │  State • API Integration  │
+                         └─────────────┬─────────────┘
+                                       │
+                                       ▼
+                         ┌───────────────────────────┐
+                         │        REST API            │
+                         │   Controllers • DTOs      │
+                         │   Validation • Security   │
+                         └─────────────┬─────────────┘
+                                       │
+                                       ▼
+                         ┌───────────────────────────┐
+                         │      Spring Boot          │
+                         │ Service • JPA • Hibernate │
+                         │ Business Logic            │
+                         └─────────────┬─────────────┘
+                                       │
+                                       ▼
+                         ┌───────────────────────────┐
+                         │          MySQL            │
+                         │ Tables • Relations • SQL  │
+                         └───────────────────────────┘
 ```
 
 ---
 
-# 🎯 Current Focus
+<div align="center">
 
-### Backend Engineering
+## 📊 GitHub Statistics
 
-- Building secure REST APIs
-- Spring Security
-- JWT Authentication
-- Spring Data JPA
-- MySQL
-- Exception Handling
-- API Architecture
+<br>
 
-### Frontend Engineering
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samir416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
-- React.js
-- TypeScript
-- Responsive UI
-- Component Architecture
-- API Integration
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir416&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-### Problem Solving
+<br><br>
 
-- Data Structures & Algorithms
-- Java-based problem solving
-- Clean and maintainable code
+<img src="https://streak-stats.demolab.com?user=samir416&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
 
 ---
 
-# 📜 Certifications
+<div align="center">
 
-| Certification | Platform |
-|---|---|
-| Programming using Java | Infosys Springboard |
-| Java Intermediate | SoloLearn |
-| Introduction to Java | SoloLearn |
-| API Beginner Learning Path | Postman Academy |
-| Database Management System | NPTEL |
-| Internship Participation Certificate | Skillfied Mentor |
+## 🏆 GitHub Trophies
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"/>
+
+</div>
 
 ---
 
-# 🧩 Development Philosophy
+<div align="center">
+
+## 📈 Contribution Activity
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samir416&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<br>
+
+<img src="https://github.com/samir416/samir416/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📚 Certifications
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center"><strong>☕ Programming using Java</strong><br>Infosys Springboard</td>
+<td align="center"><strong>☕ Java Intermediate</strong><br>SoloLearn</td>
+<td align="center"><strong>☕ Introduction to Java</strong><br>SoloLearn</td>
+</tr>
+<tr>
+<td align="center"><strong>🔌 API Beginner Learning Path</strong><br>Postman Academy</td>
+<td align="center"><strong>🗄️ Database Management System</strong><br>NPTEL</td>
+<td align="center"><strong>💼 Internship Participation</strong><br>Skillfied Mentor</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🧠 Core Engineering Skills
+
+</div>
+
+<div align="center">
+
+| 💻 Programming | ⚙️ Backend | 🗄️ Database |
+|:---:|:---:|:---:|
+| Java | Spring Boot | MySQL |
+| OOP | Spring Security | SQL |
+| Data Structures | JPA / Hibernate | PL/SQL |
+| Problem Solving | REST APIs | DBMS |
+| Clean Code | JWT | Database Design |
+
+| 🎨 Frontend | 🔧 Development | ☁️ Deployment |
+|:---:|:---:|:---:|
+| React.js | Git | Render |
+| JavaScript | GitHub | Railway |
+| TypeScript | Postman | Vercel |
+| Bootstrap | Swagger | REST APIs |
+| Responsive UI | Maven | Cloud Deployment |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Currently Learning
+
+<br>
+
+<img src="https://img.shields.io/badge/Advanced%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=111111"/>
+<img src="https://img.shields.io/badge/DSA%20in%20Java-E76F00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Open to Opportunities
+
+<br>
+
+<img src="https://img.shields.io/badge/Java%20Full%20Stack%20Internship-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Development%20Internship-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Development%20Internship-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React.js%20Internship-111827?style=for-the-badge"/>
+
+<br><br>
+
+<p>
+<strong>Looking to contribute to real-world software products and grow as a professional Full Stack Engineer.</strong>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<br>
+
+<a href="https://github.com/samir416">
+<img src="https://img.shields.io/badge/GitHub-samir416-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">
+<img src="https://img.shields.io/badge/LinkedIn-Samir%20Prajapat-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:samirprajapat5@gmail.com">
+<img src="https://img.shields.io/badge/Email-samirprajapat5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+### 📍 Ahmedabad, Gujarat, India 🇮🇳
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Developer Mindset
 
 ```java
 public class Developer {
 
-    public void grow() {
+    public void mindset() {
 
         while (true) {
 
             Learn();
             Build();
-            SolveProblems();
+            Solve();
             Improve();
             Repeat();
         }
@@ -378,75 +516,16 @@ public class Developer {
 }
 ```
 
-> Build with purpose.  
-> Learn continuously.  
-> Write clean code.  
-> Solve real problems.
+<br>
 
----
+<strong>“Code • Learn • Build • Improve”</strong>
 
-# 💼 Open to Opportunities
+<br><br>
 
-I'm currently interested in:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Always+Learning+%F0%9F%93%9A;Always+Building+%F0%9F%9A%80;Always+Improving+%F0%9F%94%A5" alt="Developer Mindset"/>
 
-- Java Full Stack Internships
-- Software Development Internships
-- Backend Development Internships
-- React.js Internships
-- React Native Internships
+<br><br>
 
-I'm especially interested in opportunities where I can work on **real-world applications, backend systems, REST APIs and full-stack products**.
+<img src="https://komarev.com/ghpvc/?username=samir416&label=THANKS+FOR+VISITING&color=36BCF7&style=for-the-badge" alt="Visitors"/>
 
----
-
-# 🤝 Let's Build Something
-
-I'm open to collaborating on:
-
-- Java & Spring Boot projects
-- Full Stack applications
-- REST API projects
-- React.js applications
-- Developer tools
-- Open-source projects
-- Innovative software products
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/samir416">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:samirprajapat5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>GitHub</b> → https://github.com/samir416
-  <br>
-  <b>LinkedIn</b> → https://www.linkedin.com/in/samir-prajapat-65016531b/
-  <br>
-  <b>Email</b> → samirprajapat5@gmail.com
-</p>
-
----
-
-# 🚀 Thanks for Visiting
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Improve;Turning+Ideas+Into+Software+%F0%9F%9A%80" alt="Closing" />
-</p>
-
-<p align="center">
-  <b>⭐ If you find my projects useful, consider giving them a star.</b>
-</p>
-
-<p align="center">
-  <sub>Built with Java • Spring Boot • React.js • MySQL • Curiosity</sub>
-</p>
+</div>
