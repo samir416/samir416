@@ -1,787 +1,455 @@
 <div align="center">
-  <h1>Hi there, I'm samir416 👋</h1>
-  <p><strong>🚀 java full stack developer | Software Engineering & Problem Solving</strong></p>
 
-  <p align="center">
-    <a href="https://github.com/samir416">
-      <img src="https://komarev.com/ghpvc/?username=samir416&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-    </a>
-  </p>
-</div>
+# Hi, I'm Samir Prajapat 👋
 
----
+### Java Full Stack Developer | Spring Boot | React.js | REST APIs | MySQL
 
-### 👨‍💻 About Me
-
-- 🎯 Focused on building clean, reliable software solutions and solving algorithmic problems.
-- 💻 Core language focus: **Java, JavaScript**
-- 💬 Open to technical discussions, open-source collaborations, and exciting engineering opportunities.
-
----
-
-### 🛠️ Technical Stack
-
-- **Programming Languages:** Java, JavaScript, java, html, javascript, react, c
-- **Technologies & Frameworks:** java, jwt-authentication, mysql, railway-database, render-deployment, rest-api, spring-boot, swagger-ui, sql, spring boot
-
----
-
-### 💻 Featured Projects
-
-#### 🔹 [QuickCourt-Backend](https://github.com/samir416/QuickCourt-Backend)
-QuickCourt Sports Booking Platform Backend
-
-- **Primary Language:** `JavaScript`
-- **Metrics:** ⭐ 1 stars | 🍴 0 forks
-- **Live Demo:** [https://quickcourt-tau.vercel.app](https://quickcourt-tau.vercel.app)
-- **Source Code:** [View Repository](https://github.com/samir416/QuickCourt-Backend)
-
-#### 🔹 [user-management-api](https://github.com/samir416/user-management-api)
-Spring Boot User Management REST API with JWT Security, Swagger, Pagination, Sorting, Railway MySQL, and Render Deployment
-
-- **Primary Language:** `Java`
-- **Topics:** java, jwt-authentication, mysql, railway-database, render-deployment, rest-api, spring-boot, swagger-ui
-- **Live Demo:** [https://user-management-api-nmya.onrender.com/swagger-ui/index.html](https://user-management-api-nmya.onrender.com/swagger-ui/index.html)
-- **Source Code:** [View Repository](https://github.com/samir416/user-management-api)
-
-#### 🔹 [Samprepix](https://github.com/samir416/Samprepix)
-AI powered interview and placement preparation platform built using React, Bootstrap, Java Spring Boot, and SQL.
-
-- **Primary Language:** `Java`
-- **Source Code:** [View Repository](https://github.com/samir416/Samprepix)
-
-#### 🔹 [Ai-Educator](https://github.com/samir416/Ai-Educator)
-Open source software project developed with JavaScript.
-
-- **Primary Language:** `JavaScript`
-- **Source Code:** [View Repository](https://github.com/samir416/Ai-Educator)
-
-#### 🔹 [samir416](https://github.com/samir416/samir416)
-Open source software project developed with modern practices.
-
-- **Source Code:** [View Repository](https://github.com/samir416/samir416)
-
----
-
-### 📊 GitHub Analytics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samir416&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir416&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+<p>
+  <a href="https://github.com/samir416">
+    <img src="https://img.shields.io/badge/GitHub-samir416-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:samirprajapat5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir416&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="155" />
+<img src="https://komarev.com/ghpvc/?username=samir416&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **BCA student and Java Full Stack Developer** focused on building practical, scalable, and production-oriented web applications.
+
+My primary development stack includes **Java, Spring Boot, Spring Security, REST APIs, JWT Authentication, React.js, JavaScript, MySQL, Git, GitHub, and cloud deployment**.
+
+I enjoy designing backend APIs, implementing secure authentication systems, building responsive React interfaces, working with relational databases, and deploying applications to the cloud.
+
+* 🎓 **BCA — JG University**
+* 💻 **Primary Focus:** Java Full Stack Development
+* ⚙️ **Backend:** Java, Spring Boot, Spring Security, REST APIs
+* ⚛️ **Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap
+* 🗄️ **Database:** MySQL, SQL
+* 🔐 **Security:** JWT Authentication, BCrypt, Role-Based Access Control
+* 🧪 **API Development & Testing:** REST API, Swagger/OpenAPI, Postman
+* ☁️ **Deployment:** Render, Railway, Vercel
+* 📱 **Currently Learning:** React Native
+* 🎯 **Open To:** Java Full Stack Internship & Software Development Opportunities
+
+---
+
+## 🧰 Technical Skills
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,cpp,c" alt="Programming Languages"/>
 </p>
 
+**Java · JavaScript · TypeScript · C · C++ · SQL · PL/SQL**
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vite" alt="Frontend Technologies"/>
+</p>
+
+**React.js · React Router · JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap · Vite · Responsive Web Design**
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,java,maven" alt="Backend Technologies"/>
+</p>
+
+**Java · Spring Boot · Spring Security · Spring Data JPA · REST APIs · JWT Authentication · BCrypt · MVC Architecture · Maven**
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
+</p>
+
+**MySQL · SQL · PL/SQL · Database Management Systems · Relational Database Design**
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman" alt="Development Tools"/>
+</p>
+
+**Git · GitHub · IntelliJ IDEA · VS Code · Postman · Swagger/OpenAPI**
+
+### Cloud & Deployment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vercel" alt="Deployment"/>
+</p>
+
+**Render · Railway · Vercel · Cloud Deployment**
+
 ---
 
-### 📫 Connect With Me
+# 🚀 Featured Projects
 
-- **GitHub:** [github.com/samir416](https://github.com/samir416)
-- **Email:** [samirprajapat5@gmail.com](mailto:samirprajapat5@gmail.com)
+## 1. AI Interview & Placement Preparation Platform — Samprepix
+
+**Repository:**
+https://github.com/samir416/Samprepix
+
+A full-stack platform focused on helping students prepare for technical interviews and placements.
+
+### Tech Stack
+
+**Frontend**
+
+* React.js
+* Vite
+* React Router
+* Bootstrap
+* Axios
+* Monaco Editor
+* Recharts
+
+**Backend**
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* REST APIs
+* JWT Authentication
+* BCrypt Password Encryption
+
+**Database**
+
+* MySQL
+
+### Key Features
+
+* 🔐 Secure user authentication
+* 🔑 JWT-based authorization
+* 📄 Resume Analyzer
+* 🤖 AI Interview Preparation
+* 💻 Coding Arena
+* 📊 Performance Dashboard
+* 📈 Analytics and performance tracking
+* 👤 User profile management
+* 🌙 Dark and light mode
+* 📱 Responsive interface
+* 🔒 Password encryption
+* 🌐 RESTful backend architecture
 
 ---
 
-<div align="center">
-  <p><em>Crafted with 🚀 <strong>Samprepix</strong> — AI Placement & Profile Excellence</em></p>
-</div>
+## 2. User Management REST API
+
+**Repository:**
+https://github.com/samir416/user-management-api
+
+**Live Swagger API:**
+https://user-management-api-nmya.onrender.com/swagger-ui/index.html
+
+A production-oriented **Spring Boot REST API** implementing secure authentication, authorization, CRUD operations, validation, API documentation, and cloud deployment.
+
+### Tech Stack
+
+**Java · Spring Boot · Spring Security · Spring Data JPA · JWT · MySQL · Swagger/OpenAPI · Maven · Render · Railway**
+
+### Key Features
+
+* 🔐 JWT Authentication
+* 👥 Role-Based Access Control
+* 🔑 Secure Login and Registration
+* 🔒 BCrypt Password Encryption
+* 📝 CRUD Operations
+* ✅ Input Validation
+* ⚠️ Global Exception Handling
+* 📄 Pagination
+* ↕️ Sorting
+* 📚 Swagger/OpenAPI Documentation
+* 🗄️ MySQL Database
+* ☁️ Railway Database Deployment
+* 🚀 Render API Deployment
 
 ---
 
-### 🏆 Additional Highlights & Credentials
+## 3. React.js Typing Speed Practice Application
 
-### 🚀 Java Full Stack Developer | Spring Boot | React.js | REST APIs | JWT Authentication
+**Repository:**
+https://github.com/samir416/samtype
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Developer;React.js+Frontend+Developer;Building+Production+Ready+Applications;Open+to+Internship+Opportunities" />
+**Live Demo:**
+https://samtype-app.vercel.app
 
-<br>
+A responsive React application designed to help users practice typing speed and accuracy.
 
-<img src="https://komarev.com/ghpvc/?username=samir416&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+### Tech Stack
 
-<img src="https://img.shields.io/github/followers/samir416?style=for-the-badge&logo=github"/>
+**React.js · JavaScript · HTML5 · CSS3 · Vercel**
 
-<img src="https://img.shields.io/github/stars/samir416?style=for-the-badge&logo=github"/>
+### Features
 
-</div>
+* ⌨️ Real-time WPM calculation
+* 🎯 Accuracy tracking
+* ⏱️ Countdown timer
+* 📄 Dynamic paragraph generation
+* 🌙 Dark and light mode
+* 📱 Responsive design
+* ⚡ Fast client-side interaction
+* 🧩 Component-based architecture
 
 ---
 
-# 💫 About Me
+## 4. QuickCourt Backend
 
-```java
-public class Samir {
+**Repository:**
+https://github.com/samir416/QuickCourt-Backend
 
-    String role = "Java Full Stack Developer";
+Backend project for a sports booking platform.
 
-    String education = "Bachelor of Computer Applications";
+**Primary Technology:** JavaScript
 
-    String university = "JG University";
+**Live Application:**
+https://quickcourt-tau.vercel.app
 
-    String location = "Ahmedabad, Gujarat, India";
+---
 
-    String backend = "Spring Boot";
+## 5. AI Educator
 
-    String frontend = "React.js";
+**Repository:**
+https://github.com/samir416/Ai-Educator
 
-    String database = "MySQL";
+An AI-focused educational software project built with JavaScript.
 
-    String currentLearning = "React Native";
+---
 
-    String goal = "Building scalable production-ready applications";
+# 🔐 Backend & Security Expertise
 
-    String openTo = "Java Full Stack Internship | Software Development Internship";
+I focus strongly on backend engineering and secure API development.
 
-}
+### Core Backend Concepts
+
+* Java
+* Object-Oriented Programming
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* RESTful API Design
+* MVC Architecture
+* JWT Authentication
+* BCrypt Password Hashing
+* Role-Based Access Control
+* Authentication & Authorization
+* CRUD Operations
+* Input Validation
+* Exception Handling
+* Pagination
+* Sorting
+* API Documentation
+
+---
+
+# 🗄️ Database & SQL
+
+* MySQL
+* SQL
+* PL/SQL
+* DBMS
+* Relational Database Design
+* CRUD Queries
+* Joins
+* Aggregation
+* Constraints
+* Database Relationships
+* Data Validation
+
+---
+
+# ⚛️ Frontend Development
+
+I build responsive and component-based user interfaces using React.js.
+
+### React Skills
+
+* React.js
+* Functional Components
+* React Hooks
+* JSX
+* Props and State
+* React Router
+* API Integration
+* Axios
+* Responsive UI
+* Bootstrap
+* Component-Based Architecture
+* Vite
+
+---
+
+# 🧪 API Development
+
+I use modern API development and testing practices including:
+
+* REST API design
+* HTTP methods
+* JSON
+* Authentication
+* Authorization
+* JWT
+* Swagger/OpenAPI
+* Postman
+* Request validation
+* Error handling
+* Pagination
+* Sorting
+
+---
+
+# 🛠️ Development Workflow
+
+```text
+Requirement
+    ↓
+System Design
+    ↓
+Database Design
+    ↓
+REST API Development
+    ↓
+Security & Authentication
+    ↓
+React Frontend
+    ↓
+API Integration
+    ↓
+Testing
+    ↓
+Git & GitHub
+    ↓
+Cloud Deployment
 ```
-
----
-
-## 🚀 Professional Summary
-
-💻 Passionate Java Full Stack Developer focused on building scalable backend systems using **Spring Boot**, **Spring Security**, **REST APIs**, **JWT Authentication**, and responsive frontend applications using **React.js**.
-
-I enjoy solving real-world problems, designing clean architectures, and continuously improving my development skills through practical projects.
-
-Currently learning **React Native** to expand into cross-platform mobile development.
-
----
-
-# 🎯 Career Objective
-
-✔ Build scalable backend systems
-
-✔ Develop production-ready REST APIs
-
-✔ Learn enterprise Java development
-
-✔ Contribute to real-world software products
-
-✔ Grow as a Full Stack Software Engineer
-
----
-
-# ⚡ Tech Stack
-
-## 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=vite"/>
-
-</p>
-
----
-
-## ⚙ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🛢 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
----
-
-## ☁ Deployment
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vercel"/>
-
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge"/>
-
-</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- 📱 React Native
-- 🔐 Spring Security
-- 🚀 JWT Authentication
-- ⚙ Spring Boot Best Practices
-- 📦 REST API Development
-- ☁ Cloud Deployment
+* 📱 React Native
+* 🔐 Advanced Spring Security
+* ⚙️ Spring Boot Best Practices
+* 🧠 Data Structures & Algorithms with Java
+* ☁️ Cloud Deployment
+* 🏗️ Scalable Backend Architecture
+* 🧪 Advanced API Testing
 
 ---
 
-# 🏆 Highlights
+# 🎓 Certifications
 
-✅ Java Full Stack Developer
+| Certification                        | Platform            |
+| ------------------------------------ | ------------------- |
+| Programming using Java               | Infosys Springboard |
+| Java Intermediate                    | SoloLearn           |
+| Introduction to Java                 | SoloLearn           |
+| API Beginner Learning Path           | Postman Academy     |
+| Database Management System           | NPTEL               |
+| Internship Participation Certificate | Skillfied Mentor    |
 
-✅ Spring Boot Backend Development
+### Certificate Verification
 
-✅ React.js Frontend Development
-
-✅ REST API Development
-
-✅ JWT Authentication
-
-✅ MySQL Database
-
-✅ Responsive UI Design
-
-✅ Production Deployment
+* [Programming using Java — Infosys Springboard](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing)
+* [Java Intermediate — SoloLearn](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing)
+* [Introduction to Java — SoloLearn](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing)
+* [API Beginner Learning Path — Postman Academy](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing)
+* [Database Management System — NPTEL](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing)
+* [Internship Participation Certificate — Skillfied Mentor](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing)
 
 ---
-# 🚀 Featured Projects
 
----
+# 📊 GitHub Statistics
 
 <div align="center">
 
-# 🚀 User Management REST API
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samir416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics"/>
 
-## 🚀 Key Features
-
-✅ JWT Authentication
-
-✅ Role Based Access Control (RBAC)
-
-✅ Secure Login & Registration
-
-✅ Password Encryption (BCrypt)
-
-✅ CRUD Operations
-
-✅ Input Validation
-
-✅ Global Exception Handling
-
-✅ Pagination
-
-✅ Sorting
-
-✅ Swagger Documentation
-
-✅ Railway Cloud MySQL
-
-✅ Render Deployment
-
----
-
-## 🔗 Live Demo
-
-🌐 **Swagger UI**
-
-https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/
-
----
-
-## 💻 Source Code
-
-https://github.com/samir416/user-management-api
-
----
-
-<div align="center">
-
-### React.js Typing Speed Practice Application
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge"/>
-
----
-
-## 🚀 Features
-
-⌨️ Real-time WPM Calculation
-
-🎯 Accuracy Tracking
-
-⏱ Countdown Timer
-
-📄 Dynamic Paragraph Generation
-
-🌙 Dark / Light Mode
-
-📱 Fully Responsive Design
-
-⚡ Fast Performance
-
-🧩 Component Based Architecture
-
----
-
-## 🌐 Live Demo
-
-https://samtype-app.vercel.app
-
----
-
-## 💻 Repository
-
-https://github.com/samir416/samtype
-
----
-
-<div align="center">
-
-### AI Interview & Placement Preparation Platform
-
-<img src="https://img.shields.io/badge/Status-Under_Development-blue?style=for-the-badge"/>
-
----
-
-## 🚀 Planned Features
-
-🤖 AI Mock Interview
-
-📄 Resume Analyzer
-
-💻 Coding Arena
-
-📊 Performance Dashboard
-
-📚 Interview Preparation
-
-🔐 JWT Authentication
-
-👤 User Profile
-
-📈 Analytics
-
-🌙 Dark Mode
-
-📱 Fully Responsive UI
-
----
-
-## 🎓 Professional Certifications
-
-</div>
-
-| 🏆 Certificate | 🎯 Platform | 🔗 Verify |
-|---------------|------------|-----------|
-| Programming using Java | Infosys Springboard | [View ↗](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing) |
-| Java Intermediate | SoloLearn | [View ↗](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing) |
-| Introduction to Java | SoloLearn | [View ↗](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing) |
-| API Beginner Learning Path | Postman Academy | [View ↗](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing) |
-| Database Management System (DBMS) | NPTEL | [View ↗](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing) |
-| Internship Participation Certificate | Skillfied Mentor | [View ↗](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing) |
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samir416&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir416&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir416&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 ---
 
+# 📈 GitHub Activity
+
 <div align="center">
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🧠 Core Engineering Skills
 
-## 📈 Contribution Graph
+| Area         | Skills                                        |
+| ------------ | --------------------------------------------- |
+| Programming  | Java, JavaScript, TypeScript, C, C++          |
+| Backend      | Spring Boot, Spring Security, Spring Data JPA |
+| Frontend     | React.js, HTML5, CSS3, Bootstrap              |
+| API          | REST API, JWT, Swagger, Postman               |
+| Database     | MySQL, SQL, PL/SQL, DBMS                      |
+| Security     | Authentication, Authorization, BCrypt, RBAC   |
+| Architecture | MVC, Layered Architecture, REST Architecture  |
+| Tools        | Git, GitHub, IntelliJ IDEA, VS Code           |
+| Deployment   | Render, Railway, Vercel                       |
+| Concepts     | OOP, DSA, Clean Code, Problem Solving         |
 
-[![Samir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416)
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ GitHub Metrics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Coding Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-> **Enable the GitHub Action later to generate this animation automatically.**
-
-![Snake animation](https://github.com/samir416/samir416/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:samirprajapat5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/samir416">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://user-management-api-nmya.onrender.com/swagger-ui/index.html">
-<img src="https://img.shields.io/badge/Live_API-000000?style=for-the-badge&logo=render&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# 💙 Thanks for Visiting My Profile
-
-### ⭐ If you like my work, don't forget to Star my repositories.
-
-<img src="https://komarev.com/ghpvc/?username=samir416&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-### 🚀 Code • Learn • Build • Repeat
-
-**Always Learning • Always Building • Always Improving**
-
-</div>
 ---
 
 # 💼 Open to Opportunities
 
-<div align="center">
+I am interested in opportunities related to:
 
-<img src="https://img.shields.io/badge/Open%20For-Java%20Full%20Stack%20Internship-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20For-Software%20Development-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20For-React%20Native%20Internship-orange?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🚀 Development Philosophy
-
-```java
-public class Developer {
-
-    public void mindset() {
-
-        while(true){
-
-            Learn();
-
-            Build();
-
-            Improve();
-
-            Repeat();
-
-        }
-
-    }
-
-}
-```
+* Java Full Stack Development
+* Java Backend Development
+* Spring Boot Development
+* Software Development
+* REST API Development
+* React.js Development
+* Full Stack Development
+* Software Development Internships
+* Java Full Stack Internships
 
 ---
 
-# 📌 Current Focus
-
-### 🚀 Backend Development
-
-- Spring Boot
-- Spring Security
-- JWT Authentication
-- REST APIs
-- MySQL
-
-### ⚛ Frontend Development
-
-- React.js
-- Responsive UI
-- Bootstrap
-- Component Architecture
-
-### 📱 Mobile Development
-
-- React Native
-
----
-
-# 📈 2026 Goals
-
-✅ Complete Samprepix
-
-✅ Master Spring Boot
-
-✅ Learn React Native
-
-✅ Build Enterprise Projects
-
-✅ Contribute to Open Source
-
-✅ Crack Product Based Company Internship
-
----
-
-# 💻 Workspace
-
-| Category | Tools |
-|----------|-------|
-| IDE | IntelliJ IDEA, VS Code |
-| Backend | Spring Boot |
-| Frontend | React.js |
-| Database | MySQL |
-| API Testing | Postman |
-| Version Control | Git & GitHub |
-| Deployment | Render, Railway, Vercel |
-
----
-
-# 🧠 Core Skills
-
-✔ Object Oriented Programming
-
-✔ Data Structures
-
-✔ DBMS
-
-✔ MVC Architecture
-
-✔ Authentication
-
-✔ REST API Design
-
-✔ Backend Development
-
-✔ Responsive Web Design
-
-✔ Clean Code
-
-✔ Problem Solving
-
----
-
-# 📊 Coding Profiles
+# 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/samir416">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-samir416-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samir-prajapat-65016531b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Samir%20Prajapat-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:samirprajapat5@gmail.com">
+<img src="https://img.shields.io/badge/Email-samirprajapat5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
-
----
-
-# 🤝 Let's Collaborate
-
-I'm always interested in collaborating on:
-
-- Java Projects
-- Spring Boot Applications
-- REST API Development
-- React.js Projects
-- Open Source Projects
-
----
-
-# ⭐ Support My Work
-
-If you like my projects,
-
-⭐ Star my repositories
-
-🍴 Fork the projects
-
-💬 Give feedback
-
-🤝 Connect on LinkedIn
-
----
-
-# 👨‍💻 Fun Facts
-
-☕ I enjoy solving backend problems.
-
-🚀 I love building production-ready applications.
-
-📚 Every day I try to learn something new.
-
-🎯 My goal is to become a Professional Java Full Stack Developer.
 
 ---
 
 <div align="center">
 
-## 💙 Thanks For Visiting
+### 🚀 Build. Learn. Improve. Repeat.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+Coding!;Let's+Build+Something+Awesome!" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=samir416&style=for-the-badge&color=blue"/>
-
-<br><br>
-
-### ⭐ Code • Learn • Build • Repeat ⭐
-
-**Always Learning • Always Building • Always Improving 🚀**
+**Java • Spring Boot • React • REST APIs • MySQL**
 
 </div>
-
----
-
-### 🔗 Preserved Profiles & References
-
-- [https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)
-- [https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java)
-- [https://skillicons.dev/icons?i=js](https://skillicons.dev/icons?i=js)
-- [https://skillicons.dev/icons?i=ts](https://skillicons.dev/icons?i=ts)
-- [https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html)
-- [https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css)
-- [https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)
-- [https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)
-- [https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap)
-- [https://skillicons.dev/icons?i=vite](https://skillicons.dev/icons?i=vite)
-- [https://skillicons.dev/icons?i=spring](https://skillicons.dev/icons?i=spring)
-- [https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git)
-- [https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)
-- [https://skillicons.dev/icons?i=vercel](https://skillicons.dev/icons?i=vercel)
-- [https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/](https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/)
-- [https://samtype-app.vercel.app](https://samtype-app.vercel.app)
-- [https://github.com/samir416/samtype](https://github.com/samir416/samtype)
-- [https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing)](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing))
-- [https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing)](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing))
-- [https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing)](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing))
-- [https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing)](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing))
-- [https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing)](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing))
-- [https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing)](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing))
-- [https://streak-stats.demolab.com](https://streak-stats.demolab.com)
-- [https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7)
-- [https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416)](https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416))
-- [https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight)
-- [https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight)
-- [https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight)
-- [https://www.linkedin.com/in/samir-prajapat-65016531b/](https://www.linkedin.com/in/samir-prajapat-65016531b/)
-
----
-
-### 🔗 Preserved Profiles & References
-
-- [https://github.com/samir416/QuickCourt-Backend)](https://github.com/samir416/QuickCourt-Backend))
-- [https://github.com/samir416/Samprepix)](https://github.com/samir416/Samprepix))
-- [https://github.com/samir416/Ai-Educator)](https://github.com/samir416/Ai-Educator))
-- [https://readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com)
-- [https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)
-- [https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap)
-- [https://skillicons.dev/icons?i=vite](https://skillicons.dev/icons?i=vite)
-- [https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java)
-- [https://skillicons.dev/icons?i=spring](https://skillicons.dev/icons?i=spring)
-- [https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)
-- [https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git)
-- [https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)
-- [https://skillicons.dev/icons?i=vercel](https://skillicons.dev/icons?i=vercel)
-- [https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/](https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/)
-- [https://samtype-app.vercel.app](https://samtype-app.vercel.app)
-- [https://github.com/samir416/samtype](https://github.com/samir416/samtype)
-- [https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing)](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing))
-- [https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing)](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing))
-- [https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing)](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing))
-- [https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing)](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing))
-- [https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing)](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing))
-- [https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing)](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing))
-- [https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7)
-- [https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416)](https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416))
-- [https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight)
-- [https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight)
-- [https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight)
-- [https://www.linkedin.com/in/samir-prajapat-65016531b/](https://www.linkedin.com/in/samir-prajapat-65016531b/)
-- [https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java)](https://skillicons.dev/icons?i=java](https://skillicons.dev/icons?i=java))
-- [https://skillicons.dev/icons?i=js](https://skillicons.dev/icons?i=js)](https://skillicons.dev/icons?i=js](https://skillicons.dev/icons?i=js))
-- [https://skillicons.dev/icons?i=ts](https://skillicons.dev/icons?i=ts)](https://skillicons.dev/icons?i=ts](https://skillicons.dev/icons?i=ts))
-- [https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html)](https://skillicons.dev/icons?i=html](https://skillicons.dev/icons?i=html))
-- [https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css)](https://skillicons.dev/icons?i=css](https://skillicons.dev/icons?i=css))
-- [https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev/icons?i=mysql](https://skillicons.dev/icons?i=mysql))
-- [https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react)](https://skillicons.dev/icons?i=react](https://skillicons.dev/icons?i=react))
-- [https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev/icons?i=bootstrap](https://skillicons.dev/icons?i=bootstrap))
-- [https://skillicons.dev/icons?i=vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev/icons?i=vite](https://skillicons.dev/icons?i=vite))
-- [https://skillicons.dev/icons?i=spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev/icons?i=spring](https://skillicons.dev/icons?i=spring))
-- [https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/icons?i=git](https://skillicons.dev/icons?i=git))
-- [https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)](https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github))
-- [https://skillicons.dev/icons?i=vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev/icons?i=vercel](https://skillicons.dev/icons?i=vercel))
-- [https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/](https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/)](https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/](https://user-management-api-nmya.onrender.com/swagger-ui/index.html#/))
-- [https://github.com/samir416/samtype](https://github.com/samir416/samtype)](https://github.com/samir416/samtype](https://github.com/samir416/samtype))
-- [https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing)](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing))](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing)](https://drive.google.com/file/d/1n-zBuJVz4ivSdpZnFATNHe5xKRHdEXwK/view?usp=sharing)))
-- [https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing)](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing))](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing)](https://drive.google.com/file/d/1XcFSkPNqFXzS4Hqss7E9j3w32oGdW4Py/view?usp=sharing)))
-- [https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing)](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing))](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing)](https://drive.google.com/file/d/1QEjY6amPfxQTTsY79JCshEDedbH6sKdj/view?usp=sharing)))
-- [https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing)](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing))](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing)](https://drive.google.com/file/d/13qbH0sJaPc7qMVbZz4SDKGdPBCkUv-Uv/view?usp=sharing)))
-- [https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing)](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing))](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing)](https://drive.google.com/file/d/1_aQRVexqrxS2yeWL4yEV1Dbldl4_ynHS/view?usp=sharing)))
-- [https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing)](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing))](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing)](https://drive.google.com/file/d/1ee3Wht3gOdl2ZHUzRsxvev0nyUeYpF_u/view?usp=sharing)))
-- [https://streak-stats.demolab.com](https://streak-stats.demolab.com)
-- [https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7)](https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=samir416&theme=tokyonight&no-frame=true&row=1&column=7))
-- [https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416)](https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416))](https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416)](https://github-readme-activity-graph.vercel.app/graph?username=samir416&theme=tokyo-night&hide_border=true)](https://github.com/samir416)))
-- [https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samir416&theme=tokyonight))
-- [https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samir416&theme=tokyonight))
-- [https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight)](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samir416&theme=tokyonight))
-- [https://www.linkedin.com/in/samir-prajapat-65016531b/](https://www.linkedin.com/in/samir-prajapat-65016531b/)](https://www.linkedin.com/in/samir-prajapat-65016531b/](https://www.linkedin.com/in/samir-prajapat-65016531b/))
